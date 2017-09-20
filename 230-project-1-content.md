@@ -44,15 +44,20 @@ The player will be able to do a multitude of different actions in Gladiator. He/
 
 #### Desktop
 WASD - Movement
+
 Left Click - Swing Sword 
+
 Right Click - Shoot Bow
+
 Q - Use Potion
 #### Mobile
 Lower Left Screen - Movement
-Sword Button - Swing Sword
-Bow Button - Shoot Bow
-Potion Button - Use Potion
 
+Sword Button - Swing Sword
+
+Bow Button - Shoot Bow
+
+Potion Button - Use Potion
 ### Teaching the Game
 The game will have a small tutorial for new players if they wish to play it to find more information about the game. It will be a simple introduction to the game and it's mechanics in regards to killing enemies, using equipment and buying new equipment.
 
