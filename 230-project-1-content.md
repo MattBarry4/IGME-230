@@ -26,12 +26,46 @@ The motivation behind Gladiator is for the player to build the ultimate warrior 
 
 ## V. Esthetics
 
-Graphics - Gladiator will have a more catoony style of graphics like that of Clash Royal and other supercell type of games (except this is just 2D).
+### Graphics
+Gladiator will have a more catoony style of graphics like that of Clash Royal and other supercell type of games (except this is just 2D).
 
-Sounds - There will be regular sound effects based on player actions. There will also be looped background music as the player progresses through the game.
+### Sounds
+There will be regular sound effects based on player actions. There will also be looped background music as the player progresses through the game.
 
-Types of Sounds - When the player swings his sword, there will be a *swoosh* sound as well as a bow shooting sound when the player shoots his bow. Monsters will have their own sound effects as well for their actions. There will be little fun UI sound effects for buying things as well as in the menu. Background music will be catchy and fun for the player to play the game too.
+### Types of Sounds
+When the player swings his sword, there will be a *swoosh* sound as well as a bow shooting sound when the player shoots his bow. Monsters will have their own sound effects as well for their actions. There will be little fun UI sound effects for buying things as well as in the menu. Background music will be catchy and fun for the player to play the game too.
 
 ## VI. Gameplay
 
+### Mechanics
+The player will be able to do a multitude of different actions in Gladiator. He/she will be able to attack enemies by swinging swords as well as shooting arrows from different bows. The player will be able to move around in the game as a normal 2D adventure game would allow the player. There will also be in game upgrades and equipment that can be bought with in game gold that the player will have access to. Finally, the player will be able to swtich between the menu game state and playing game state using UI.
 
+### Controls
+
+#### Desktop
+WASD - Movement
+Left Click - Swing Sword 
+Right Click - Shoot Bow
+Q - Use Potion
+#### Mobile
+Lower Left Screen - Movement
+Sword Button - Swing Sword
+Bow Button - Shoot Bow
+Potion Button - Use Potion
+
+### Teaching the Game
+The game will have a small tutorial for new players if they wish to play it to find more information about the game. It will be a simple introduction to the game and it's mechanics in regards to killing enemies, using equipment and buying new equipment.
+
+### Player Learning
+Gladiator will have a small learning curve for most players. The game is simple in that it's a classic slash and shoot style of game. Kill the enemies, collect gold, buy new and better stuff, progress. In order for players to get good at the game (skill) it will involve the player getting use to the game mechanics with how enemies work, what they do, how to beat them, when to strike and when not to, ect. Players can also improve their skill level by knowing what upgrades they should buy when based on how they want to play the game and set themselves up. The main way to be good at gladiator is timing though in terms of when to strike an enemy and knowing what that enemy will try to do to you, the player.
+
+## VII. Screenshots
+
+
+## VIII. Other
+
+Gladiator plans to be a casual, addicting game that players can either pick up for 5 minutes or 5 hours. The motivation for the player to play the game differently with different upgrades and kill enemies in different ways to maybe become more successful should work well. Gamers love being able to build their character in a way they want to and making him more powerful along the way is even better.
+
+## IX. About the Developer
+
+My name is Matthew Barry, a 2nd year Game Design & Development major here at RIT. I also have two minors in Business Administration and Marketing as well as an immersion in Storytelling Across Media. My main skills are in programming in game development but I also enjoy working in Maya and Photoshop. I mainly develop PC games through UE4 and Unity.
