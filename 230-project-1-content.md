@@ -68,6 +68,7 @@ Gladiator will have a small learning curve for most players. The game is simple 
 ## VII. Screenshots
 
 
+
 ## VIII. Other
 
 Gladiator plans to be a casual, addicting game that players can either pick up for 5 minutes or 5 hours. The motivation for the player to play the game differently with different upgrades and kill enemies in different ways to maybe become more successful should work well. Gamers love being able to build their character in a way they want to and making him more powerful along the way is even better.
