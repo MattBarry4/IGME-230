@@ -71,7 +71,7 @@ Concept Doodle 1:
 ![alt text](https://github.com/MattBarry4/IGME-230/blob/master/WebDev1.PNG "Screenshot 1")
 
 Concept Doodle 2:
-![alt text](https://github.com/MattBarry4/IGME-230/blob/master/WebDev1.PNG "Screenshot 1")
+![alt text](https://github.com/MattBarry4/IGME-230/blob/master/WebDev2.PNG "Screenshot 2")
 
 ## VIII. Other
 
