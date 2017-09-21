@@ -67,7 +67,11 @@ Gladiator will have a small learning curve for most players. The game is simple 
 
 ## VII. Screenshots
 
+Concept Doodle 1:
+![alt text](https://github.com/MattBarry4/IGME-230/blob/master/WebDev1.PNG "Screenshot 1")
 
+Concept Doodle 2:
+![alt text](https://github.com/MattBarry4/IGME-230/blob/master/WebDev1.PNG "Screenshot 1")
 
 ## VIII. Other
 
